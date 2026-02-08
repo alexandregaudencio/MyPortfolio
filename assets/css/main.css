@@ -3966,6 +3966,7 @@ body.is-preload #sidebar nav ul li {
   background-repeat:repeat;
   background-size: 100%;
   text-align: justify;
+  padding-right: 2em;
 }
 
 #intro p {
